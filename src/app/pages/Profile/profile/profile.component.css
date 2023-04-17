@@ -1,0 +1,14 @@
+img{
+    border-radius: 50%;
+    margin-left: 45%;
+}
+h1{
+    text-align: center;
+    color: blueviolet;
+}
+.container{
+    border: 10px;
+    border-color: red;
+    
+
+}
